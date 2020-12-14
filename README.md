@@ -2,6 +2,24 @@
    DOWHILE 2020 - Criando API GraphQL em Node.js e TypeScript com TypeGraphQL
 </h1>
 
+<p align="center">  
+<a target="_blank" href="https://www.youtube.com/danieleleaoevangelista">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/yout.png">
+</a> &nbsp; &nbsp;
+
+<a target="_blank" href="https://www.instagram.com/dani_leao/">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/_instagram.png">
+</a> &nbsp; &nbsp;
+
+<a target="_blank" href="https://twitter.com/danieleleao">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/_twitter.png">
+</a> &nbsp; &nbsp;
+
+<a target="_blank" href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/_linkedin.png"> &nbsp;
+</a>
+</p>
+
 <h1>
     <img src="public/danievangelista.jpg">
 </h1>
